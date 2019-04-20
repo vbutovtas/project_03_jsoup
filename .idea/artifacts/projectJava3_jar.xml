@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="projectJava3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/projectJava3_jar</output-path>
+    <root id="archive" name="projectJava3.jar">
+      <element id="module-output" name="projectJava3" />
+      <element id="extracted-dir" path="E:/Soft/jsoup-1.11.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
